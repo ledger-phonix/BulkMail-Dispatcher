@@ -30,6 +30,9 @@ This repository is completely plug-and-play. Anyone cloning this project does no
 
 ### Running the App:
 1. Clone this repository to your local machine.
+```
+git clone https://github.com/ledger-phonix/BulkMail-Dispatcher
+```
 2. Double-click the **`run_app.bat`** script.
 
 > **What happens under the hood?**
